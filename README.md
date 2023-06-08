@@ -1,2 +1,3 @@
-# 7_days_python_ml
-7 Days of Python &amp; Machine Learning by Devtown
+# Advertisement Prediction to generate large Sales
+
+This is a 7 Days of Python &amp; Machine Learning by Devtown
